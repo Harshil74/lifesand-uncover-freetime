@@ -76,7 +76,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
             <ScreenshotFeature
               title="Your Time, Visualized"
               description="Understand how your daily activities consume your precious hours with clear, intuitive charts. See your life's breakdown at a glance."
-              imageSrc="/public/1.png"
+              imageSrc="/1.png"
               imageAlt="Lifesand Dashboard Screenshot"
               reverse={false}
             />
@@ -85,7 +85,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
             <ScreenshotFeature
               title="Your Life in Weeks"
               description="A powerful visual representation of your entire life, week by week. Greyed out weeks are past, colored weeks show how your remaining time is spent."
-              imageSrc="/public/2.png"
+              imageSrc="/2.png"
               imageAlt="Lifesand Life in Weeks Screenshot"
               reverse={true}
             />
@@ -94,7 +94,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
             <ScreenshotFeature
               title="Your Personalized Bucket List"
               description="Based on your estimated free time, discover ideas for what you can realistically achieve. Dream big and start planning!"
-              imageSrc="/public/3.png"
+              imageSrc="/3.png"
               imageAlt="Lifesand Bucket List Screenshot"
               reverse={false}
             />
